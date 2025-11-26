@@ -77,19 +77,21 @@
 
 ### Главное окно
 
-```
 
-![img.png](img.png)
 
-```
+<img width="747" height="775" alt="image" src="https://github.com/user-attachments/assets/8013891d-3c0a-4c4f-81af-fefdffa7492b" />
+
+
+
 
 ### Диалог добавления подписки
 
-```
 
-![img_1.png](img_1.png)
 
-````
+<img width="580" height="1028" alt="image" src="https://github.com/user-attachments/assets/fa8389d2-fb1d-4691-9ad6-2fc7d5de5b0b" />
+
+
+
 
 ---
 
